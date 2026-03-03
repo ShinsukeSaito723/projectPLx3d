@@ -1,0 +1,12 @@
+# 認証情報・機密ファイル
+token.json
+credentials.json
+*.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# macOS
+.DS_Store
